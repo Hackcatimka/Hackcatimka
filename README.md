@@ -12,9 +12,9 @@ Python, FastAPI, PostgreSQL, SQLAlchemy, Telegram Bot APIs, REST APIs, Git, Dock
 
 - [ChronicleBot](https://github.com/Hackcatimka/ChronicleBot) — a Telegram bot for saving moments, tracking goals and reviewing progress with AI-assisted reflections
 - [Tender Parser](https://github.com/Hackcatimka/tender-parser) — a PyQt6 desktop application for monitoring public tenders and analysing documents with Ollama
-- [Camp Management Platform](https://github.com/Hackcatimka/lager) — a full-stack system with role-based interfaces for administrators, trainers, parents and participants
-- [Crypto Market Alert Bot](https://github.com/Hackcatimka/Trader-bot) — a Telegram bot for detecting unusual activity on Binance and Bybit
-- [WorldSkills Blockchain Project](https://github.com/Hackcatimka/wsr-t1-main) — the project that earned second place in the St. Petersburg WorldSkills blockchain competition
+- [Camp Management Platform](https://github.com/Hackcatimka/camp-management-platform) — a full-stack system with role-based interfaces for administrators, trainers, parents and participants
+- [Crypto Market Alert Bot](https://github.com/Hackcatimka/crypto-market-alert-bot) — a Telegram bot for detecting unusual activity on Binance and Bybit
+- [WorldSkills Blockchain Project](https://github.com/Hackcatimka/worldskills-blockchain-project) — the project that earned second place in the St. Petersburg WorldSkills blockchain competition
 - [Bitrix24 Performance Dashboard](https://github.com/Hackcatimka/bitrix24-performance-dashboard) — a sanitized CRM analytics dashboard for deals, calls, tasks and employee performance
 
 ## Cybersecurity
